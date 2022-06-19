@@ -1,0 +1,67 @@
+h1 {
+    text-align: center;
+}
+
+.theore {
+    background-color: yellow;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+main > div{
+    background-color: rgb(189, 189, 189);
+    width: 95%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.details q {
+    quotes: "\0022" "\0022";
+}
+
+.details {
+    text-align: center;
+}
+
+img {
+    border-left-style: solid;
+    border-left-color: red;
+    border-width: 10px;
+    height: 600px;
+    display: block;
+    margin: auto;
+    border-top: 10px;
+}
+
+.align {
+    margin-left: 200px;
+}
+
+blockquote {
+    background-color: rgb(208, 208, 208);
+    width: 700px;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+}
+
+footer {
+    background-color: yellow;
+    
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+a, a:focus {
+    color: blue;
+    text-decoration: none;
+}
